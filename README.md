@@ -46,7 +46,7 @@ I specialize in **bare-metal and safety-critical firmware**, working close to si
 
 ### 📫 Reach Me
 - 📧 Email: gokul.develop@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/gokul-lekshman  
+- 💼 LinkedIn: https://www.linkedin.com/in/gokul-lekshman-020395211  
 - 🌍 Location: India | Open to UAE opportunities
 
 ---
